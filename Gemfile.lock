@@ -3,6 +3,7 @@ PATH
   specs:
     ruby-phoenix (0.0.7)
       activesupport (~> 4.2)
+      rake (~> 10.4)
       rjb (~> 1.4)
 
 GEM
@@ -24,6 +25,7 @@ GEM
       coderay (~> 1.1.0)
       method_source (~> 0.8.1)
       slop (~> 3.4)
+    rake (10.4.2)
     rjb (1.5.3)
     rspec (3.1.0)
       rspec-core (~> 3.1.0)

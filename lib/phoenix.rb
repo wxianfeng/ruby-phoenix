@@ -7,3 +7,5 @@ require "phoenix/common"
 require "phoenix/relation"
 require "phoenix/base"
 require "phoenix/version"
+
+load "tasks/phoenix.rake"
