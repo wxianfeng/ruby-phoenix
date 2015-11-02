@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    ruby-phoenix (0.0.7)
+    ruby-phoenix (0.0.8)
       activesupport (~> 4.2)
       rake (~> 10.4)
       rjb (~> 1.4)
