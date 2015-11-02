@@ -1,0 +1,3 @@
+require "phoenix"
+
+require "pry"
