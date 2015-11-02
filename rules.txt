@@ -1,4 +1,0 @@
-.git
-.gitignore
-*.gem
-README.md
