@@ -21,7 +21,7 @@ vi config/phoenix.yml
 class StYunosAppCenterCntNew < Phoenix::Base
 end
 
-2.1, Run SQL:
+2.1, Run SQL
 sql = "select * from ST_YUNOS_APP_CENTER_CNT_NEW limit 10"
 results = Phoenix::Rjb.execute(sql)
 
