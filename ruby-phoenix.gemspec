@@ -6,11 +6,11 @@ require 'phoenix/version'
 Gem::Specification.new do |spec|
   spec.name          = "ruby-phoenix"
   spec.version       = Ruby::Phoenix::VERSION
-  spec.authors       = ["昊淼"]
-  spec.email         = ["haomiao.wxf@alibaba-inc.com"]
+  spec.authors       = ["wxianfeng"]
+  spec.email         = ["wang.fl1429@gmail.com"]
   spec.summary       = %q{Ruby Client SDK For Apache Phoenix.}
   spec.description   = %q{Ruby Client SDK For Apache Phoenix.}
-  spec.homepage      = "http://gitlab.alibaba-inc.com/haomiao.wxf/ruby-phoenix"
+  spec.homepage      = "https://github.com/wxianfeng/ruby-phoenix"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
